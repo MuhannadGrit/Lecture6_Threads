@@ -1,0 +1,8 @@
+dec. 12, 2024 2:04:05 EM FileLoggingExample main
+INFO: Programmet startade.
+dec. 12, 2024 2:04:05 EM FileLoggingExample main
+WARNING: En varning! Något kan vara fel.
+dec. 12, 2024 2:04:05 EM FileLoggingExample main
+SEVERE: Ett allvarligt fel inträffade.
+dec. 12, 2024 2:04:05 EM FileLoggingExample main
+INFO: Programmet avslutades.
